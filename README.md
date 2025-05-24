@@ -1,6 +1,5 @@
 # flutter_application_2
 
-# flutter_application_2
  1.Data Layer
 Purpose:
     The Data Layer is responsible for accessing and managing data from remote sources (such as APIs). It contains services and repositories that handle HTTP requests and transform the raw response into usable model objects.
